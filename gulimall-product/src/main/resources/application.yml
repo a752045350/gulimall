@@ -9,10 +9,10 @@
 #      discovery:
 #        server-addr: 127.0.0.1:8848
 ##    alicloud:
-##      access-key: LTAI4FzaiVyPsmNsMGbpvLL1
-##      secret-key: G9M8S2CdGTqcx27OVPArB3ky1A8I1r
+##      access-key: 
+##      secret-key: 
 ##      oss:
-##        enpoint: oss-cn-shenzhen.aliyuncs.com
+##        enpoint: 
 #  jackson:
 #    date-format: yyyy-MM-dd HH:mm:ss
 #
